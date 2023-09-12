@@ -1,3 +1,7 @@
+Probability theory vs. Statistics
+- Probability Theory --> Answers are not arguable
+- Statistics --> Use the same principle, but different from probability theory
+- counting of elementary event in composite space
 [[Combinatorial Analysis]]
 1.1 introduction
 1.2 basic principle of counting
@@ -12,7 +16,7 @@
 - Binomial Theorem
 1.5 Multinomial Coefficient
 
-[[Conditional Probability]]
+[[Probability Axioms]]
 2.1 Introduction
 2.2 Sample Space
 2.3 Axioms of Probability
@@ -24,3 +28,4 @@ conditional probability definition
 1. The multiplication rule
 2. Total law probability
 3. Bayes theorem
+Independence

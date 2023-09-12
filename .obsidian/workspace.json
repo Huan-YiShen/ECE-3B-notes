@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 307/Probability Theory.md",
+                "file": "ECE-307/Conditional Probability and Independence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e821befb4f09e0da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE-307/Conditional Probability and Independence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a136da47684bc366",
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 307/Probability Theory.md",
+                "file": "ECE-307/Conditional Probability and Independence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 307/Probability Theory.md",
+                "file": "ECE-307/Conditional Probability and Independence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 307/Probability Theory.md"
+                "file": "ECE-307/Conditional Probability and Independence.md"
+              }
+            }
+          },
+          {
+            "id": "0e3060735505bcbf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -156,8 +177,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9051811430ace567",
+  "active": "e821befb4f09e0da",
   "lastOpenFiles": [
+    "ECE-307/Probability Theory.md",
+    "Chapter 1 Introduction.md",
+    "ECE-307/Conditional Probability and Independence.md",
+    "ECE-358",
+    "ECE-307/Probability Axioms.md",
     "ECE 320/labs/riscv-gnu-toolchain/binutils/gas/testsuite/gas/i386/ilp32/lns/lns-duplicate.d",
     "ECE 320/labs/riscv-gnu-toolchain/binutils/gas/testsuite/gas/i386/ilp32/lns/ilp32.exp",
     "ECE 320/labs/riscv-gnu-toolchain/binutils/gas/testsuite/gas/i386/ilp32/lns/lns-common-1.d",
@@ -167,8 +193,6 @@
     "ECE 320/labs/riscv-gnu-toolchain/binutils/gas/testsuite/gas/i386/ilp32/cfi/cfi-common-6.d",
     "ECE 320/labs/riscv-gnu-toolchain/binutils/gas/testsuite/gas/i386/ilp32/cfi/cfi-common-5.d",
     "ECE 320/labs/riscv-gnu-toolchain/binutils/gas/testsuite/gas/i386/ilp32/cfi/cfi-common-4.d",
-    "ECE 320/labs/riscv-gnu-toolchain/binutils/gas/testsuite/gas/i386/ilp32/cfi/cfi-common-3.d",
-    "ECE 320/labs/riscv-gnu-toolchain/binutils/gas/testsuite/gas/i386/ilp32/cfi/cfi-common-2.d",
     "ECE 320/labs/riscv-gnu-toolchain/binutils/binutils/testsuite/binutils-all/windres/bmp1.bmp",
     "ECE 320/labs/riscv-gnu-toolchain/README.md",
     "ECE 351/1 Introduction to Compiler.md",
